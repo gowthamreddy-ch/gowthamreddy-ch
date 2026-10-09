@@ -6,7 +6,7 @@ I build full-stack applications and study how AI systems behave when the evidenc
 
 My background spans enterprise .NET development, healthcare onboarding workflows, and business analytics, with experience at **HashTek** and **Capgemini**.
 
-**[Explore my portfolio](https://gowthamreddy-ch.github.io/)** · [Résumé](https://gowthamreddy-ch.github.io/assets/Gowtham_Reddy_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/gowtham-reddy-ch) · [Email](mailto:gowthamreddych.97@gmail.com)
+**[Explore my portfolio](https://gowthamreddy-ch.github.io/)** · [Résumé](https://gowthamreddy-ch.github.io/assets/Gowtham_Reddy_Resume.pdf) ·  [Email](mailto:gowthamreddych.97@gmail.com)
 
 ---
 
